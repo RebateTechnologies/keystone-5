@@ -24,7 +24,7 @@
     "cuid": "^2.1.8",
     "endent": "^2.1.0",
     "ensure-error": "^3.0.1",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "express-pino-logger": "^6.0.0",
     "falsey": "^1.0.0",
     "fs-extra": "^9.1.0",
