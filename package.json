@@ -67,7 +67,7 @@
     "chalk": "^4.1.1",
     "chalk-cli": "^4.1.0",
     "cross-env": "^7.0.3",
-    "cypress": "^5.6.0",
+    "cypress": "^7.4.0",
     "cypress-multi-reporters": "^1.5.0",
     "dotenv": "^8.6.0",
     "dotenv-safe": "^8.2.0",
@@ -89,7 +89,7 @@
     "mdast-util-to-string": "^2.0.0",
     "memoize-one": "^5.2.1",
     "mocha": "^8.4.0",
-    "mocha-junit-reporter": "^2.0.0",
+    "mocha-junit-reporter": "^2.1.1",
     "mongodb": "^3.6.9",
     "p-is-promise": "^3.0.0",
     "pino-colada": "^2.1.0",
@@ -114,7 +114,7 @@
     "typescript": "^4.1.5",
     "unist-util-visit": "^2.0.3",
     "unsplash-js": "^6.3.0",
-    "webpack": "4.46.0"
+    "webpack": "5.0.0"
   },
   "prettier": {
     "proseWrap": "preserve",
